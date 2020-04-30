@@ -1,6 +1,7 @@
-# pidtools  
+# uc_pidfile  
 A set of classes and functions for managing pidfile.
-
+It is part of the Unicon project.
+https://unicon.10k.me
 
 
 #### Functions:
