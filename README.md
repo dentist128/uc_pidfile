@@ -1,8 +1,14 @@
 # uc_pidfile  
 A set of classes and functions for managing pidfile.
-It is part of the Unicon project.
+
+It is part of the Unicon project
+
 https://unicon.10k.me
 
+#### Using:
+```python
+import uc_pidfile
+```
 
 #### Functions:
 
