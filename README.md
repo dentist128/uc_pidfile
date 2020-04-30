@@ -5,7 +5,7 @@ It is part of the Unicon project.
 
 https://unicon.10k.me
 
-#### Using:
+#### Usage:
 ```python
 import uc_pidfile
 ```
