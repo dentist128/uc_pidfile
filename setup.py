@@ -31,7 +31,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="uc_pidfile",
-    version="0.0.1",
+    version="0.0.3",
     author="Eduard S. Markelov",
     author_email="markeloveduard@gmail.com",
     description="A set of classes and functions for managing pidfile.",
